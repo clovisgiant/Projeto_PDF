@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreSQL_CRUD", "PostgreSQL_CRUD\PostgreSQL_CRUD.csproj", "{F64AC29B-76F3-4EB8-BDAD-D802FA4211DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64AC29B-76F3-4EB8-BDAD-D802FA4211DE}.Debug|x86.ActiveCfg = Debug|x86
+		{F64AC29B-76F3-4EB8-BDAD-D802FA4211DE}.Debug|x86.Build.0 = Debug|x86
+		{F64AC29B-76F3-4EB8-BDAD-D802FA4211DE}.Release|x86.ActiveCfg = Release|x86
+		{F64AC29B-76F3-4EB8-BDAD-D802FA4211DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
